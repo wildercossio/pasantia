@@ -1,0 +1,106 @@
+I, [2019-03-01T19:33:46.105725 #8912]  INFO -- : Refreshing Gem list
+I, [2019-03-01T19:33:49.106624 #8912]  INFO -- : listening on addr=/var/www/myapp/shared/sockets/unicorn.sock fd=11
+I, [2019-03-01T19:33:49.106773 #8912]  INFO -- : worker=0 spawning...
+I, [2019-03-01T19:33:49.109055 #8912]  INFO -- : worker=1 spawning...
+I, [2019-03-01T19:33:49.110421 #8912]  INFO -- : worker=2 spawning...
+I, [2019-03-01T19:33:49.111472 #8916]  INFO -- : worker=0 spawned pid=8916
+I, [2019-03-01T19:33:49.119727 #8912]  INFO -- : master process ready
+I, [2019-03-01T19:33:49.125889 #8918]  INFO -- : worker=1 spawned pid=8918
+I, [2019-03-01T19:33:49.127006 #8921]  INFO -- : worker=2 spawned pid=8921
+I, [2019-03-01T19:33:49.417489 #8921]  INFO -- : worker=2 ready
+I, [2019-03-01T19:33:49.421070 #8916]  INFO -- : worker=0 ready
+I, [2019-03-01T19:33:49.422897 #8918]  INFO -- : worker=1 ready
+I, [2019-03-01T19:41:46.337028 #8912]  INFO -- : reaped #<Process::Status: pid 8916 exit 0> worker=0
+I, [2019-03-01T19:41:46.337428 #8912]  INFO -- : reaped #<Process::Status: pid 8918 exit 0> worker=1
+I, [2019-03-01T19:41:46.337503 #8912]  INFO -- : reaped #<Process::Status: pid 8921 exit 0> worker=2
+I, [2019-03-01T19:41:46.337619 #8912]  INFO -- : master complete
+I, [2019-03-01T19:48:17.620429 #1128]  INFO -- : Refreshing Gem list
+I, [2019-03-01T19:48:20.570108 #1128]  INFO -- : unlinking existing socket=/var/www/myapp/shared/sockets/unicorn.sock
+I, [2019-03-01T19:48:20.570313 #1128]  INFO -- : listening on addr=/var/www/myapp/shared/sockets/unicorn.sock fd=9
+I, [2019-03-01T19:48:20.570433 #1128]  INFO -- : worker=0 spawning...
+I, [2019-03-01T19:48:20.571926 #1128]  INFO -- : worker=1 spawning...
+I, [2019-03-01T19:48:20.574592 #1128]  INFO -- : worker=2 spawning...
+I, [2019-03-01T19:48:20.575689 #1181]  INFO -- : worker=0 spawned pid=1181
+I, [2019-03-01T19:48:20.583134 #1128]  INFO -- : master process ready
+I, [2019-03-01T19:48:20.587948 #1183]  INFO -- : worker=1 spawned pid=1183
+I, [2019-03-01T19:48:20.596497 #1186]  INFO -- : worker=2 spawned pid=1186
+I, [2019-03-01T19:48:20.752326 #1183]  INFO -- : worker=1 ready
+I, [2019-03-01T19:48:20.752582 #1181]  INFO -- : worker=0 ready
+I, [2019-03-01T19:48:20.752762 #1186]  INFO -- : worker=2 ready
+I, [2019-03-01T19:50:51.787214 #1128]  INFO -- : reaped #<Process::Status: pid 1181 exit 0> worker=0
+I, [2019-03-01T19:50:51.787342 #1128]  INFO -- : reaped #<Process::Status: pid 1183 exit 0> worker=1
+I, [2019-03-01T19:50:51.787391 #1128]  INFO -- : reaped #<Process::Status: pid 1186 exit 0> worker=2
+I, [2019-03-01T19:50:51.787460 #1128]  INFO -- : master complete
+I, [2019-03-01T19:51:07.170659 #1186]  INFO -- : Refreshing Gem list
+I, [2019-03-01T19:51:10.066610 #1186]  INFO -- : unlinking existing socket=/var/www/myapp/shared/sockets/unicorn.sock
+I, [2019-03-01T19:51:10.066800 #1186]  INFO -- : listening on addr=/var/www/myapp/shared/sockets/unicorn.sock fd=11
+I, [2019-03-01T19:51:10.066914 #1186]  INFO -- : worker=0 spawning...
+I, [2019-03-01T19:51:10.068372 #1186]  INFO -- : worker=1 spawning...
+I, [2019-03-01T19:51:10.074378 #1186]  INFO -- : worker=2 spawning...
+I, [2019-03-01T19:51:10.075498 #1186]  INFO -- : master process ready
+I, [2019-03-01T19:51:10.080658 #1246]  INFO -- : worker=0 spawned pid=1246
+I, [2019-03-01T19:51:10.089633 #1248]  INFO -- : worker=1 spawned pid=1248
+I, [2019-03-01T19:51:10.094086 #1250]  INFO -- : worker=2 spawned pid=1250
+I, [2019-03-01T19:51:10.362102 #1250]  INFO -- : worker=2 ready
+I, [2019-03-01T19:51:10.362364 #1246]  INFO -- : worker=0 ready
+I, [2019-03-01T19:51:10.362541 #1248]  INFO -- : worker=1 ready
+I, [2019-03-01T19:54:03.722654 #1186]  INFO -- : reaped #<Process::Status: pid 1246 exit 0> worker=0
+I, [2019-03-01T19:54:03.722790 #1186]  INFO -- : reaped #<Process::Status: pid 1248 exit 0> worker=1
+I, [2019-03-01T19:54:03.722845 #1186]  INFO -- : reaped #<Process::Status: pid 1250 exit 0> worker=2
+I, [2019-03-01T19:54:03.722927 #1186]  INFO -- : master complete
+I, [2019-03-01T19:54:27.807627 #1103]  INFO -- : Refreshing Gem list
+I, [2019-03-01T19:54:30.737535 #1103]  INFO -- : unlinking existing socket=/var/www/myapp/shared/sockets/unicorn.sock
+I, [2019-03-01T19:54:30.737768 #1103]  INFO -- : listening on addr=/var/www/myapp/shared/sockets/unicorn.sock fd=11
+I, [2019-03-01T19:54:30.737882 #1103]  INFO -- : worker=0 spawning...
+I, [2019-03-01T19:54:30.739674 #1103]  INFO -- : worker=1 spawning...
+I, [2019-03-01T19:54:30.743053 #1103]  INFO -- : worker=2 spawning...
+I, [2019-03-01T19:54:30.743964 #1211]  INFO -- : worker=0 spawned pid=1211
+I, [2019-03-01T19:54:30.751489 #1103]  INFO -- : master process ready
+I, [2019-03-01T19:54:30.759202 #1213]  INFO -- : worker=1 spawned pid=1213
+I, [2019-03-01T19:54:30.767232 #1216]  INFO -- : worker=2 spawned pid=1216
+I, [2019-03-01T19:54:30.973611 #1216]  INFO -- : worker=2 ready
+I, [2019-03-01T19:54:30.977335 #1213]  INFO -- : worker=1 ready
+I, [2019-03-01T19:54:30.977513 #1211]  INFO -- : worker=0 ready
+I, [2019-03-01T19:58:14.685238 #1146]  INFO -- : Refreshing Gem list
+I, [2019-03-01T19:58:17.239520 #1146]  INFO -- : unlinking existing socket=/var/www/myapp/shared/sockets/unicorn.sock
+I, [2019-03-01T19:58:17.239717 #1146]  INFO -- : listening on addr=/var/www/myapp/shared/sockets/unicorn.sock fd=9
+I, [2019-03-01T19:58:17.239856 #1146]  INFO -- : worker=0 spawning...
+I, [2019-03-01T19:58:17.241918 #1146]  INFO -- : worker=1 spawning...
+I, [2019-03-01T19:58:17.243746 #1146]  INFO -- : worker=2 spawning...
+I, [2019-03-01T19:58:17.244819 #1174]  INFO -- : worker=0 spawned pid=1174
+I, [2019-03-01T19:58:17.246688 #1146]  INFO -- : master process ready
+I, [2019-03-01T19:58:17.251698 #1176]  INFO -- : worker=1 spawned pid=1176
+I, [2019-03-01T19:58:17.260207 #1179]  INFO -- : worker=2 spawned pid=1179
+I, [2019-03-01T19:58:17.490770 #1174]  INFO -- : worker=0 ready
+I, [2019-03-01T19:58:17.491048 #1179]  INFO -- : worker=2 ready
+I, [2019-03-01T19:58:17.491254 #1176]  INFO -- : worker=1 ready
+I, [2019-03-02T11:04:23.889490 #1209]  INFO -- : Refreshing Gem list
+I, [2019-03-02T11:04:27.682485 #1209]  INFO -- : unlinking existing socket=/var/www/myapp/shared/sockets/unicorn.sock
+I, [2019-03-02T11:04:27.682704 #1209]  INFO -- : listening on addr=/var/www/myapp/shared/sockets/unicorn.sock fd=9
+I, [2019-03-02T11:04:27.682819 #1209]  INFO -- : worker=0 spawning...
+I, [2019-03-02T11:04:27.684474 #1209]  INFO -- : worker=1 spawning...
+I, [2019-03-02T11:04:27.691269 #1209]  INFO -- : worker=2 spawning...
+I, [2019-03-02T11:04:27.692171 #1647]  INFO -- : worker=0 spawned pid=1647
+I, [2019-03-02T11:04:27.697907 #1209]  INFO -- : master process ready
+I, [2019-03-02T11:04:27.707978 #1650]  INFO -- : worker=1 spawned pid=1650
+I, [2019-03-02T11:04:27.723049 #1656]  INFO -- : worker=2 spawned pid=1656
+I, [2019-03-02T11:04:27.925163 #1647]  INFO -- : worker=0 ready
+I, [2019-03-02T11:04:27.925413 #1650]  INFO -- : worker=1 ready
+I, [2019-03-02T11:04:27.925598 #1656]  INFO -- : worker=2 ready
+I, [2019-03-02T11:24:52.364577 #1209]  INFO -- : reaped #<Process::Status: pid 1647 exit 0> worker=0
+I, [2019-03-02T11:24:52.365888 #1209]  INFO -- : reaped #<Process::Status: pid 1650 exit 0> worker=1
+I, [2019-03-02T11:24:52.365960 #1209]  INFO -- : reaped #<Process::Status: pid 1656 exit 0> worker=2
+I, [2019-03-02T11:24:52.368648 #1209]  INFO -- : master complete
+I, [2019-03-02T11:24:53.264994 #3692]  INFO -- : Refreshing Gem list
+I, [2019-03-02T11:24:54.500850 #3692]  INFO -- : unlinking existing socket=/var/www/myapp/shared/sockets/unicorn.sock
+I, [2019-03-02T11:24:54.501241 #3692]  INFO -- : listening on addr=/var/www/myapp/shared/sockets/unicorn.sock fd=9
+I, [2019-03-02T11:24:54.501377 #3692]  INFO -- : worker=0 spawning...
+I, [2019-03-02T11:24:54.503284 #3692]  INFO -- : worker=1 spawning...
+I, [2019-03-02T11:24:54.504435 #3692]  INFO -- : worker=2 spawning...
+I, [2019-03-02T11:24:54.505395 #3696]  INFO -- : worker=0 spawned pid=3696
+I, [2019-03-02T11:24:54.507479 #3692]  INFO -- : master process ready
+I, [2019-03-02T11:24:54.512109 #3698]  INFO -- : worker=1 spawned pid=3698
+I, [2019-03-02T11:24:54.521999 #3701]  INFO -- : worker=2 spawned pid=3701
+I, [2019-03-02T11:24:54.694211 #3696]  INFO -- : worker=0 ready
+I, [2019-03-02T11:24:54.694525 #3698]  INFO -- : worker=1 ready
+I, [2019-03-02T11:24:54.695069 #3701]  INFO -- : worker=2 ready

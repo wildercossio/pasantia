@@ -1,0 +1,8 @@
+production:
+  adapter: postgresql
+  encoding: utf8
+  pool: 5
+  host: localhost
+  database: doc_reviewer_db
+  username: doc_reviewer
+  password: secreto
